@@ -1,15 +1,15 @@
 # Project Name
 Week 2 Class build
 
-#Project Discription
+# Project Discription
 week 2 class build for MMED-1054
 
 
-#installation
+# installation
 sdnhaodhasda
 
 
-#MIT License
+# MIT License
 
 
 Copyright Barbara
